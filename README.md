@@ -11,4 +11,3 @@ php artisan optimize
 ## 1
 installed sanctum
 
- /var/www/www-root/data/www/api.pharmiq.uz
