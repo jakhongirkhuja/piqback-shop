@@ -1,0 +1,325 @@
+{
+    "response": {
+        "GeoObjectCollection": {
+            "metaDataProperty": {
+                "GeocoderResponseMetaData": {
+                    "Point": {
+                        "pos": "69.253955 41.300489"
+                    },
+                    "request": "69.253955,41.300489",
+                    "results": "5",
+                    "found": "5"
+                }
+            },
+            "featureMember": [
+                {
+                    "GeoObject": {
+                        "metaDataProperty": {
+                            "GeocoderMetaData": {
+                                "precision": "exact",
+                                "text": "Узбекистан, Ташкент, проезд Ракатбоши, 67",
+                                "kind": "house",
+                                "Address": {
+                                    "country_code": "UZ",
+                                    "formatted": "Узбекистан, Ташкент, проезд Ракатбоши, 67",
+                                    "Components": [
+                                        {
+                                            "kind": "country",
+                                            "name": "Узбекистан"
+                                        },
+                                        {
+                                            "kind": "province",
+                                            "name": "Ташкент"
+                                        },
+                                        {
+                                            "kind": "locality",
+                                            "name": "Ташкент"
+                                        },
+                                        {
+                                            "kind": "street",
+                                            "name": "проезд Ракатбоши"
+                                        },
+                                        {
+                                            "kind": "house",
+                                            "name": "67"
+                                        }
+                                    ]
+                                },
+                                "AddressDetails": {
+                                    "Country": {
+                                        "AddressLine": "Узбекистан, Ташкент, проезд Ракатбоши, 67",
+                                        "CountryNameCode": "UZ",
+                                        "CountryName": "Узбекистан",
+                                        "AdministrativeArea": {
+                                            "AdministrativeAreaName": "Ташкент",
+                                            "Locality": {
+                                                "LocalityName": "Ташкент",
+                                                "Thoroughfare": {
+                                                    "ThoroughfareName": "проезд Ракатбоши",
+                                                    "Premise": {
+                                                        "PremiseNumber": "67"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "name": "проезд Ракатбоши, 67",
+                        "description": "Ташкент, Узбекистан",
+                        "boundedBy": {
+                            "Envelope": {
+                                "lowerCorner": "69.24985 41.297393",
+                                "upperCorner": "69.25806 41.303585"
+                            }
+                        },
+                        "Point": {
+                            "pos": "69.253955 41.300489"
+                        }
+                    }
+                },
+                {
+                    "GeoObject": {
+                        "metaDataProperty": {
+                            "GeocoderMetaData": {
+                                "precision": "street",
+                                "text": "Узбекистан, Ташкент, проезд Ракатбоши",
+                                "kind": "street",
+                                "Address": {
+                                    "country_code": "UZ",
+                                    "formatted": "Узбекистан, Ташкент, проезд Ракатбоши",
+                                    "Components": [
+                                        {
+                                            "kind": "country",
+                                            "name": "Узбекистан"
+                                        },
+                                        {
+                                            "kind": "province",
+                                            "name": "Ташкент"
+                                        },
+                                        {
+                                            "kind": "locality",
+                                            "name": "Ташкент"
+                                        },
+                                        {
+                                            "kind": "street",
+                                            "name": "проезд Ракатбоши"
+                                        }
+                                    ]
+                                },
+                                "AddressDetails": {
+                                    "Country": {
+                                        "AddressLine": "Узбекистан, Ташкент, проезд Ракатбоши",
+                                        "CountryNameCode": "UZ",
+                                        "CountryName": "Узбекистан",
+                                        "AdministrativeArea": {
+                                            "AdministrativeAreaName": "Ташкент",
+                                            "Locality": {
+                                                "LocalityName": "Ташкент",
+                                                "Thoroughfare": {
+                                                    "ThoroughfareName": "проезд Ракатбоши"
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "name": "проезд Ракатбоши",
+                        "description": "Ташкент, Узбекистан",
+                        "boundedBy": {
+                            "Envelope": {
+                                "lowerCorner": "69.253398 41.297515",
+                                "upperCorner": "69.257333 41.301397"
+                            }
+                        },
+                        "Point": {
+                            "pos": "69.25365 41.299988"
+                        }
+                    }
+                },
+                {
+                    "GeoObject": {
+                        "metaDataProperty": {
+                            "GeocoderMetaData": {
+                                "precision": "other",
+                                "text": "Узбекистан, Ташкент, Яккасарайский район, махалля Юнус Ражабий",
+                                "kind": "other",
+                                "Address": {
+                                    "country_code": "UZ",
+                                    "formatted": "Узбекистан, Ташкент, Яккасарайский район, махалля Юнус Ражабий",
+                                    "Components": [
+                                        {
+                                            "kind": "country",
+                                            "name": "Узбекистан"
+                                        },
+                                        {
+                                            "kind": "province",
+                                            "name": "Ташкент"
+                                        },
+                                        {
+                                            "kind": "locality",
+                                            "name": "Ташкент"
+                                        },
+                                        {
+                                            "kind": "district",
+                                            "name": "Яккасарайский район"
+                                        },
+                                        {
+                                            "kind": "other",
+                                            "name": "махалля Юнус Ражабий"
+                                        }
+                                    ]
+                                },
+                                "AddressDetails": {
+                                    "Country": {
+                                        "AddressLine": "Узбекистан, Ташкент, Яккасарайский район, махалля Юнус Ражабий",
+                                        "CountryNameCode": "UZ",
+                                        "CountryName": "Узбекистан",
+                                        "AdministrativeArea": {
+                                            "AdministrativeAreaName": "Ташкент",
+                                            "Locality": {
+                                                "LocalityName": "Ташкент",
+                                                "DependentLocality": {
+                                                    "DependentLocalityName": "Яккасарайский район",
+                                                    "Premise": {
+                                                        "PremiseName": "махалля Юнус Ражабий"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "name": "махалля Юнус Ражабий",
+                        "description": "Яккасарайский район, Ташкент, Узбекистан",
+                        "boundedBy": {
+                            "Envelope": {
+                                "lowerCorner": "69.248888 41.297793",
+                                "upperCorner": "69.26902 41.311083"
+                            }
+                        },
+                        "Point": {
+                            "pos": "69.259372 41.304526"
+                        }
+                    }
+                },
+                {
+                    "GeoObject": {
+                        "metaDataProperty": {
+                            "GeocoderMetaData": {
+                                "precision": "other",
+                                "text": "Узбекистан, Ташкент, Яккасарайский район",
+                                "kind": "district",
+                                "Address": {
+                                    "country_code": "UZ",
+                                    "formatted": "Узбекистан, Ташкент, Яккасарайский район",
+                                    "Components": [
+                                        {
+                                            "kind": "country",
+                                            "name": "Узбекистан"
+                                        },
+                                        {
+                                            "kind": "province",
+                                            "name": "Ташкент"
+                                        },
+                                        {
+                                            "kind": "locality",
+                                            "name": "Ташкент"
+                                        },
+                                        {
+                                            "kind": "district",
+                                            "name": "Яккасарайский район"
+                                        }
+                                    ]
+                                },
+                                "AddressDetails": {
+                                    "Country": {
+                                        "AddressLine": "Узбекистан, Ташкент, Яккасарайский район",
+                                        "CountryNameCode": "UZ",
+                                        "CountryName": "Узбекистан",
+                                        "AdministrativeArea": {
+                                            "AdministrativeAreaName": "Ташкент",
+                                            "Locality": {
+                                                "LocalityName": "Ташкент",
+                                                "DependentLocality": {
+                                                    "DependentLocalityName": "Яккасарайский район"
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "name": "Яккасарайский район",
+                        "description": "Ташкент, Узбекистан",
+                        "boundedBy": {
+                            "Envelope": {
+                                "lowerCorner": "69.213944 41.253085",
+                                "upperCorner": "69.273134 41.311083"
+                            }
+                        },
+                        "Point": {
+                            "pos": "69.253748 41.286004"
+                        }
+                    }
+                },
+                {
+                    "GeoObject": {
+                        "metaDataProperty": {
+                            "GeocoderMetaData": {
+                                "precision": "other",
+                                "text": "Узбекистан, Ташкент",
+                                "kind": "locality",
+                                "Address": {
+                                    "country_code": "UZ",
+                                    "formatted": "Узбекистан, Ташкент",
+                                    "Components": [
+                                        {
+                                            "kind": "country",
+                                            "name": "Узбекистан"
+                                        },
+                                        {
+                                            "kind": "province",
+                                            "name": "Ташкент"
+                                        },
+                                        {
+                                            "kind": "locality",
+                                            "name": "Ташкент"
+                                        }
+                                    ]
+                                },
+                                "AddressDetails": {
+                                    "Country": {
+                                        "AddressLine": "Узбекистан, Ташкент",
+                                        "CountryNameCode": "UZ",
+                                        "CountryName": "Узбекистан",
+                                        "AdministrativeArea": {
+                                            "AdministrativeAreaName": "Ташкент",
+                                            "Locality": {
+                                                "LocalityName": "Ташкент"
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "name": "Ташкент",
+                        "description": "Узбекистан",
+                        "boundedBy": {
+                            "Envelope": {
+                                "lowerCorner": "69.121678 41.163577",
+                                "upperCorner": "69.477725 41.422501"
+                            }
+                        },
+                        "Point": {
+                            "pos": "69.279737 41.311158"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}
